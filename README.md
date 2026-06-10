@@ -6,6 +6,12 @@
 
 ---
 
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Software+Engineer"
+/>
+
+---
+
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-top: 16px; margin-bottom: 16px; background-color: #f6f8fa;">
   <table>
     <tr>
@@ -104,8 +110,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Usman-Amin-AI&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=Usman-Amin-AI&theme=default&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Usman-Amin-AI&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Usman-Amin-AI&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
