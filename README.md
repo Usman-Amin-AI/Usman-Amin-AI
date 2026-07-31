@@ -95,15 +95,6 @@
 
 ---
 
-### Numbers
-
-| | |
-|---|---|
-| **767+** | GitHub contributions in the last year |
-| **617+** | Automated tests in ByanRAG (production Arabic RAG system) |
-| **62** | Tests across open source PRs (ragas + unstructured) |
-| **5** | ML models in production |
-| **150+** | Students trained in Data Science & AI |
 
 ---
 
