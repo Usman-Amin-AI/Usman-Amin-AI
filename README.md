@@ -83,7 +83,7 @@
             </a>
           </td>
           <td>
-            <a href="https://wa.me/923183007566" target="_blank">
+            <a href="https://wa.me/923247173455" target="_blank">
               <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge">
             </a>
           </td>
